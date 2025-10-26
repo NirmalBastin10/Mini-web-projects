@@ -6,7 +6,7 @@ A fun and minimal **Rock Paper Scissors** game built using **HTML**, **CSS**, an
 
 ---
 
-## 🖼️ Preview
+## Preview
 <img width="1680" height="982" alt="Screenshot 2025-10-26 at 11 55 00 AM" src="https://github.com/user-attachments/assets/b66542d8-5955-47ab-ba95-0309a85982dc" />
 
 ---
