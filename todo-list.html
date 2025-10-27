@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="output.css">
+    <title>Todo list</title>
+</head>
+<script src="to-do.js"></script>
+
+<body class="bg-[#F6F7F8]">
+    <div class="font-Roboto ">
+        <div class="container mx-auto pt-10  flex items-center justify-center">
+            <div class="w-96 md:w-auto">
+                <div class="flex items-center justify-center">
+                    <h1 class="text-5xl font-extrabold mb-10">To-Do List</h1>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-2xs p-3  flex flex-col md:flex-row  mb-7">
+                    <input class="js-input bg-white rounded-2xl  p-3   md:w-96 outline-0  " onkeydown="check()" type="text" name="" id=""
+                        placeholder="What do you need to do?">
+                    <div class="flex">
+                    <input class="bg-[#F8FAFC] border-[#e4e4e4] p-2 js-date px-3  rounded-md border cursor-pointer" type="date">
+                    <button
+                        class=" font-medium rounded-md md:text-sm bg-[#197FE6] border border-[#197FE6] text-white  px-4 py-2 ml-2  hover:bg-white hover:text-[#197FE6] hover:border hover:border-[#197FE6] trasition-all duration-200 cursor-pointer text-xs"
+                        onclick="addToList()">Add Task</button>
+                    </div>
+                    
+                </div>
+                <div class="js-list mb-4 bg-gray-100 rounded-2xl shadow-2xs space-y-0.5 overflow-clip"> </div>
+                <div class=" js-remove flex justify-end p-3">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
