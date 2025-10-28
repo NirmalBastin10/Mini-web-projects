@@ -6,7 +6,7 @@ Each project is made using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## Live Website
-[Visit the Homepage](https://mini-web-nirmal.netlify.app/)
+[Visit the Homepage](https://nirmalbastin10.github.io/Mini-web-projects/)
 
 ---
 
@@ -19,14 +19,14 @@ Each project is made using **HTML**, **CSS**, and **JavaScript**.
 
 ### Rock Paper Scissors
 A simple rock paper scissors game built with JavaScript.  
-[Demo](https://mini-web-nirmal.netlify.app/rock-paper-scissors)
+[Demo](https://nirmalbastin10.github.io/Mini-web-projects/rock-paper-scissors.html)
 
 <img width="1680" height="982" alt="Screenshot 2025-10-27 at 10 20 43 PM" src="https://github.com/user-attachments/assets/8d8f5ac5-9d2e-49e5-b2d3-a7b0f2c366c3" />
 
 
 ### To-Do List
 A basic to-do list app with local storage support.  
-[Demo](https://mini-web-nirmal.netlify.app/todo-list)
+[Demo](https://nirmalbastin10.github.io/Mini-web-projects/todo-list.html)
 
 <img width="1680" height="984" alt="Screenshot 2025-10-27 at 10 18 21 PM" src="https://github.com/user-attachments/assets/b7ed5945-baf5-47d4-a2dc-8488da695d9d" />
 
